@@ -1,0 +1,19 @@
+{
+  "name": "drawer",
+  "version": "0.1.0",
+  "description": "A lightweight package for drawing grids to canvas",
+  "main": "draw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/calveym/drawer.git"
+  },
+  "author": "Mike Calvey",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/calveym/drawer/issues"
+  },
+  "homepage": "https://github.com/calveym/drawer#readme"
+}
